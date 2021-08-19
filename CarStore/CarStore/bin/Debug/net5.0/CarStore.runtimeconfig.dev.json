@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kogo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kogo\\.nuget\\packages"
+    ]
+  }
+}
